@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68bf356efd3cb3f468d97aa2004ab1d8, type: 3}
+  m_Name: Casual 1
+  m_EditorClassIdentifier: 
+  _starter_1:
+    _id: 1
+    _text: Moroccan spiced hummus, in-house baked bread (v)
+  _starter_2:
+    _id: 2
+    _text: Local squid, Turkish pepper, aioli, lemon
+  _starter_3:
+    _id: 3
+    _text: Chicken wings, sticky bbq sauce
+  _starter_4:
+    _id: 4
+    _text: Heirloom eggplant [old, open-pollinated varieties of aubergines], chickpea,
+      pomegranate, mint, sumac (v)
+  _main_1:
+    _id: 1
+    _text: Roasted pumpkin pizza, spinach, pumpkin seeds, vegan cheese (v)
+  _main_2:
+    _id: 2
+    _text: Grain fed beef brisket 200g, in-house glaze, pickled cabbage, jalapenos
+      [chili pepper], corn tortilla
+  _main_3_control:
+    _id: 3
+    _text: Locally raised beef burger 200g, bacon, mustard, lettuce, onion, fries
+  _main_3_variant:
+    _id: 3
+    _text: Burger with cultivated beef 200g (cultivated from a small amount of stem
+      cells harvested from living animals without harming them), mustard, lettuce,
+      onion, fries
+  _main_3_taste:
+    _id: 3
+    _text: 'Burger with cultivated beef 200g (cultivated from a small amount of stem
+      cells harvested from living animals without harming them), mustard, lettuce,
+      onion, fries
+
+      <i><size=20>Won Superior Taste Award (National Taste Institute,
+      2023), competing against traditional meat dishes'
+  _main_4:
+    _id: 4
+    _text: Quinoa bowl, mango, sweet corn, cabbage, green leaves, chili tofu, chipotle
+      mayo (v)
+  _main_5_control:
+    _id: 5
+    _text: Herb marinated chicken, lime, cucumber, mint salad, spiced yoghurt, fries
+  _main_5_variant:
+    _id: 5
+    _text: Beetroot salad with wood-oven roasted beetroots, ajoblanco [Spanish cold
+      soup], almonds, mint (v)
+  _main_5_taste:
+    _id: 5
+    _text: 'Beetroot salad with wood-oven roasted beetroots, ajoblanco [Spanish cold
+      soup], almonds, mint (v)
+
+      <i><size=20>Won Superior Taste Award (National
+      Taste Institute, 2023), competing against traditional meat dishes'
+  _main_6:
+    _id: 6
+    _text: Pan-fried Australian barramundi [fish], fennel, asparagus salad, tartar
+      sauce

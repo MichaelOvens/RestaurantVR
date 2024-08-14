@@ -1,0 +1,310 @@
+{ Likert
+
+. 5. Please rate each of the main dishes:
+
+# 5.1: MENU_ITEM
+# 5.2: MENU_ITEM
+# 5.3: MENU_ITEM
+# 5.4: MENU_ITEM
+# 5.5: MENU_ITEM
+# 5.5: MENU_ITEM
+# 5.6: MENU_ITEM
+
++  1:  Not appealing
++  2:  
++  3:  
++  4:  
++  5:  Very appealing
+}
+
+--------------
+
+{ Likert
+
+# 6: How much do you think you would enjoy this dining experience?
+# 7: Did you find the menu appealing?
+
++  1:  Not at all
++  2:  
++  3:  
++  4:  
++  5:  Very much
+}
+
+--------------
+
+{ Survey
+
+# 8: Did the menu just shown to you include vegetarian options?
+
++ 1: Yes
++ 2: No
++ 3: Not sure
+}
+
+--------------
+
+{ Likert
+
+. 9: Were you given information like these statements during this survey?
+
+# 9.1: Meat is a traditional part of many people’s diets but some people choose to be vegetarian.
+# 9.2: Someone else was paying for your meal at this restaurant.
+# 9.3: Eating too much meat contributes to climate change (UN Food and Agricultural Organization, 2020): Livestock generates close to 20% the anthropogenic CO2 emissions.
+
++ 1: Definitely no
++ 2: 
++ 3: Do not remember
++ 4: 
++ 5: Definitely yes
+}
+
+--------------
+
+{ Likert
+
+# 10: Compared to before you started this survey, by how much has your awareness of the climate consequences of eating meat increased?
+
++ 1: Not at all
++ 2: 
++ 3: 
++ 4: 
++ 5: A lot
+}
+
+{ Likert
+
+. How credible is the following statement:
+# 11. Eating too much meat contributes to climate change (UN Food and Agricultural Organization, 2020): Livestock generates close to 20% the CO2 emissions caused by humans.
+
++ 1: Not credible at all
++ 2: 
++ 3:
++ 4:
++ 5: Very credible
+}
+
+{ Likert
+
+# 12: How much do you know about the term 'cultivated meat'?
+
++ 1: Never heard of it
++ 2: 
++ 3: 
++ 4: 
++ 5: Know exactly what it is
+}
+
+{ Likert
+
+# 13: Have you ever tried 'cultivated meat'?
+
++ 1: Not that I would know
++ 2: Yes
+}
+
+--------------
+
+{ Likert
+
+. 14: Are the following statements about cultivated meat true or false?
+
+# 14.1: It is made from vegetables.
+# 14.2: It is meat produced from cultivating animal cells in vitro (in a laboratory).
+# 14.3: It is meat produced from farming animals.
+
++ 1: False
++ 2: Unsure
++ 3: True
+}
+
+{ Likert
+
+# 15: Based on your current knowledge about cultivated meat, how interested would you be in trying out cultivated meat?
+
++ 1: Not at all
++ 2: 
++ 3: 
++ 4:
++ 5: Very much
+}
+
+--------------
+
+{ Block-Multiple
+
+. 16: Do you suffer from any or more of the following food intolerances? (select all that apply)
+
+# 1: Gluten intolerance
+# 2: Lactose intolerance
+# 3: Allergic to nuts
+# 4: Allergic to seafood and/or fish
+# 5: Allergic to egg
+# 6: Other
+}
+
+--------------
+
+{ Survey
+
+# 17: Are you a vegetarian?
+
++ 1: Yes - Vegetarian
++ 2: Yes - Vegan
++ 3: No - but I try to avoid meat and/or fish
++ 4: No - I do eat meat/fish
+}
+
+{ Likert
+
+# 18: How much meat do you normally eat?
+
++ 1: Never eat meat
++ 2: 
++ 3: 
++ 4:
++ 5: Always want to have meat in my meal
+}
+
+--------------
+
+{ Block-Multiple
+
+. 19: Please select any reason you might avoid or reduce meat consumption (select all that apply)
+
+# 19.1: For ethical reasons (for example, I am concerned about animal welfare)
+# 19.2: For health reasons (for example, too much meat is unhealthy)
+# 19.3: For religious reasons
+# 19.4: For economic reasons (for example, meat is more expensive)
+# 19.5: Sensory preferences and taste (for example, I do not (always) like the taste of meat)
+# 19.6: For environmental reasons (for example, meat production impacts the environment)
+# 19.7: For social reasons (for example, other people in my family don’t eat meat)
+# 19.8: Other reasons
+# 19.9: I do NOT try to avoid or reduce meat
+}
+
+--------------
+
+{ Survey
+
+# 19: How many meat or fish meals do you eat per week on average? (Please consider breakfast, lunch and dinner. Whenever you eat starters and main dishes, please only consider the main dish.)
+
++ 1: none
++ 2: 1 to 3
++ 3: 4 to 6
++ 4: 7 to 10
++ 5: 11 to 15
++ 6: More than 15
+}
+
+--------------
+
+{ Survey
+
+# 21: What did you eat for your <b><u>most recent dinner</b></u>? (If you ate starters and main dishes, please only consider the main dish.)
+
++ 1: Vegetarian dish
++ 2: Meat-based dish
++ 3: Fish-based dish
++ 4: I'm not sure
+}
+
+--------------
+
+{ Survey
+
+# 22: What did you eat for your <b><u>most recent lunch</b></u>? (If you ate starters and main dishes, please only consider the main dish.)
+
++ 1: Vegetarian dish
++ 2: Meat-based dish
++ 3: Fish-based dish
++ 4: I'm not sure
+}
+
+--------------
+
+{ Likert
+
+# 22: Would you like to incorporate more plant-based food into your diet in the future?
+
++ 1: Not at all
++ 2: 
++ 3: 
++ 4: 
++ 5: Very much
+}
+
+--------------
+
+{ Block-Single
+
+# 24: What do you identify as?
+
++ 1: Female
++ 2: Male
++ 3: Other
+}
+
+{ Block-Single
+
+# 25: In which country do you normally reside?
+
++ 1: Australia
++ 2: New Zealand
++ 3: UK
++ 4: Other Asian country
++ 5: Other European country
++ 6: Other
+}
+
+{ Block-Single
+
+# 26: What is your highest level of formal education?
+
++ 1: Did not complete Secondary School
++ 2: Completed Secondary School
++ 3: Completed a University Qualification
+}
+
+{ Block-Single
+
+# 27: What is your current employment status?
+
++ 1: Full time employment
++ 2: Part time employment
++ 3: Student (and not working)
++ 4: Unemployed looking for work
++ 5: Unemployed not looking for work
++ 6: Retired
+}
+
+--------------
+
+{ Block-Single
+
+# 28: Do you have any underlying health conditions which require you to eat <b><u>more</u></u> meat or fish?
+
++ 1: Yes 
++ 2: No
++ 3: Prefer not to say
+}
+
+{ Block-Single
+
+# 29: Do you have any underlying health conditions which require you to eat less meat or fish?
+
++ 1: Yes 
++ 2: No
++ 3: Prefer not to say
+}
+
+{ Likert
+
+# 30: How hungry do you feel right now?
+
++ 1: Not hungry at all
++ 2: 
++ 3: 
++ 4: 
++ 5: Very hungry
+}

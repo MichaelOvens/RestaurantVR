@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af910c36d39cb514ebf47ac12f97d84d, type: 3}
+  m_Name: Q14 - Cultivated meat statements
+  m_EditorClassIdentifier: 
+  BlockId: 13
+  HeaderText: Are the following statements about cultivated meat true or false?
+  Questions:
+  - Id: 1
+    Text: It is made from vegetables
+    SelectedResponse: 0
+  - Id: 2
+    Text: It is meat produced from cultivating animal cells in vitro (in a laboratory)
+    SelectedResponse: 0
+  - Id: 3
+    Text: It is meat produced from farming animals
+    SelectedResponse: 0
+  Responses:
+    Labels:
+    - False
+    - Unsure
+    - True
+    ResponseCount: 5

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af910c36d39cb514ebf47ac12f97d84d, type: 3}
+  m_Name: Q2 - Dining preferences
+  m_EditorClassIdentifier: 
+  BlockId: 2
+  HeaderText: When dining out in a restaurant, how important are the following aspects
+    to you?
+  Questions:
+  - Id: 1
+    Text: Dining with people whose company you enjoy
+    SelectedResponse: 0
+  - Id: 2
+    Text: Eating tasty food
+    SelectedResponse: 0
+  - Id: 3
+    Text: Reducing food waste
+    SelectedResponse: 0
+  - Id: 4
+    Text: Limiting meat consumption
+    SelectedResponse: 0
+  - Id: 5
+    Text: Enjoying the surroundings
+    SelectedResponse: 0
+  - Id: 6
+    Text: Experiencing different and new food
+    SelectedResponse: 0
+  - Id: 7
+    Text: Re-experiencing the food which I know I will like because I have tried
+      it many times before
+    SelectedResponse: 0
+  - Id: 8
+    Text: Minimising impact on the environment
+    SelectedResponse: 0
+  - Id: 9
+    Text: Getting value for money
+    SelectedResponse: 0
+  Responses:
+    Labels:
+    - Not important
+    - Very important
+    ResponseCount: 5

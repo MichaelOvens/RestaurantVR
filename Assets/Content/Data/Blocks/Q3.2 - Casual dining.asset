@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c87d7414e7755ee4eadc5c3b28e606eb, type: 3}
+  m_Name: Q3.2 - Casual dining
+  m_EditorClassIdentifier: 
+  Type: 0
+  PrefabRow: {fileID: 1644317841075321070, guid: 95d222a4017d7944ea5afad6295fe1e1,
+    type: 3}
+  Question:
+    Id: 3.2
+    Text: 'Casual dining: a restaurant with a relaxed atmosphere but there is table
+      service with orders typically taken by a waiter and food served at the table
+      while you are seated, typically no expectations around dress code, meal prices
+      are in the mid-range'
+  Responses:
+  - type: 0
+    id: 1
+    text: 'Never '
+    selected: 0
+  - type: 0
+    id: 2
+    text: Once every 5 years
+    selected: 0
+  - type: 0
+    id: 3
+    text: Once a year
+    selected: 0
+  - type: 0
+    id: 4
+    text: A few times a year
+    selected: 0
+  - type: 0
+    id: 5
+    text: Once a month
+    selected: 0
+  - type: 0
+    id: 6
+    text: A few times a month
+    selected: 0
+  - type: 0
+    id: 7
+    text: Once a week
+    selected: 0
+  - type: 0
+    id: 8
+    text: A few times a week
+    selected: 0
+  - type: 0
+    id: 9
+    text: At least once a day
+    selected: 0

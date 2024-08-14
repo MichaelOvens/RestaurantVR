@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68bf356efd3cb3f468d97aa2004ab1d8, type: 3}
+  m_Name: Fine 2
+  m_EditorClassIdentifier: 
+  _starter_1:
+    IsSelected: 0
+    _id: 1
+    _text: Woodfired flatbread, roasted beetroot dip, merlot vinegar, spiced pepitas
+      [pumpkin seeds] (v)
+  _starter_2:
+    IsSelected: 0
+    _id: 2
+    _text: Fish tacos, crispy fried market fish, avocado, smoked chilli, pickled
+      cabbage
+  _starter_3:
+    IsSelected: 0
+    _id: 3
+    _text: Crispy pork hock, red miso [fermented soy], pickled radish, Bravo apple,
+      ginger, witlof
+  _starter_4:
+    IsSelected: 0
+    _id: 4
+    _text: Woodfired cauliflower, Aleppo pepper [Middle Eastern spice], pickled Romanesco
+      [Broccoli variety], smoked almond (v)
+  _main_1:
+    IsSelected: 0
+    _id: 1
+    _text: Roots, shoots and leaves, white bean hummus, charred brassica vegetables
+      [cauliflower, kale etc.], pomegranate, red zhoug [spicy Middle Eastern condiment]
+      (v)
+  _main_2:
+    IsSelected: 0
+    _id: 2
+    _text: Grass fed Scotch fillet 300g, roasted shallots, oyster mushroom, chicken
+      wing jus
+  _main_3_control:
+    IsSelected: 0
+    _id: 3
+    _text: Wood-fired ribeye 300g, shiitake and wakame butter [seaweed butter], chilli
+      tomato relish
+  _main_3_variant:
+    IsSelected: 0
+    _id: 3
+    _text: Wood-fired ribeye with cultivated beef 300g (cultivated from a small amount
+      of stem cells harvested from living animals without harming them), shiitake
+      and wakame butter [seaweed butter], chilli tomato relish
+  _main_3_taste:
+    IsSelected: 0
+    _id: 3
+    _text: 'Wood-fired ribeye with cultivated beef 300g (cultivated from a small
+      amount of stem cells harvested from living animals without harming them), shiitake
+      and wakame butter [seaweed butter], chilli tomato relish
+
+      <i><size=20>Won
+      Superior Taste Award (National Taste Institute, 2023), competing against traditional
+      meat dishes'
+  _main_4:
+    IsSelected: 0
+    _id: 4
+    _text: Fragrant yellow curry, eggplant, baby corn, sweet potato, capsicum, green
+      bean (v)
+  _main_5_control:
+    IsSelected: 0
+    _id: 5
+    _text: Woodfired chicken, white miso [fermented soy], charred cabbage, buckwheat
+  _main_5_variant:
+    IsSelected: 0
+    _id: 5
+    _text: Pumpkin gnocchi [Italian dumplings], olive oil, sage, roast pumpkin, walnut
+      pangrattato [crispy breadcrumbs] (v)
+  _main_5_taste:
+    IsSelected: 0
+    _id: 5
+    _text: 'Pumpkin gnocchi [Italian dumplings], olive oil, sage, roast pumpkin,
+      walnut pangrattato [crispy breadcrumbs] (v)
+
+      <i><size=20>Won Superior
+      Taste Award (National Taste Institute, 2023), competing against traditional
+      meat dishes'
+  _main_6:
+    IsSelected: 0
+    _id: 6
+    _text: Woodfired fresh market fish, mussels, kombu butter [dried kelp], fennel

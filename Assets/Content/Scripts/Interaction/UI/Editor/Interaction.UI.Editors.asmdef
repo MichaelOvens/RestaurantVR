@@ -1,0 +1,19 @@
+{
+    "name": "Interaction.UI.Editors",
+    "rootNamespace": "Interaction.UI.Editors",
+    "references": [
+        "GUID:941fa08748266ef42a5398b8b4c3f27b",
+        "GUID:0dcd0c42883b66c4c97fc5448689ae4c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

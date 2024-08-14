@@ -1,0 +1,29 @@
+# Starters
+. Starters
++ Woodfired flatbread, roasted beetroot dip, merlot vinegar, spiced pepitas [pumpkin seeds] (v)
++ Fish tacos, crispy fried market fish, avocado, smoked chilli, pickled cabbage
++ Crispy pork hock, red miso [fermented soy], pickled radish, Bravo apple, ginger, witlof
++ Woodfired cauliflower, Aleppo pepper [Middle Eastern spice], pickled Romanesco [Broccoli variety], smoked almond (v)
+<
+
+# Mains
+. Mains
++ Roots, shoots and leaves, white bean hummus, charred brassica vegetables [cauliflower, kale etc.], pomegranate, red zhoug [spicy Middle Eastern condiment] (v)
++ Grass fed Scotch fillet 300g, roasted shallots, oyster mushroom, chicken wing jus
++ {MeatCondition.Control} Wood-fired ribeye 300g, shiitake and wakame butter [seaweed butter], chilli tomato relish
++ {MeatCondition.More} Wood-fired ribeye with cultivated beef 300g (cultivated from a small amount of stem cells harvested from living animals without harming them), shiitake and wakame butter [seaweed butter], chilli tomato relish
++ {MeatCondition.Taste} Wood-fired ribeye with cultivated beef 300g (cultivated from a small amount of stem cells harvested from living animals without harming them), shiitake and wakame butter [seaweed butter], chilli tomato relish
+i {MeatCondition.Taste} Won Superior Taste Award (National Taste Institute, 2023), competing against traditional meat dishes
++ Fragrant yellow curry, eggplant, baby corn, sweet potato, capsicum, green bean (v)
++ {VegeCondition.Control} Woodfired chicken, white miso [fermented soy], charred cabbage, buckwheat
++ {VegeCondition.More} Pumpkin gnocchi [Italian dumplings], olive oil, sage, roast pumpkin, walnut pangrattato [crispy breadcrumbs] (v)
++ {VegeCondition.Taste} Pumpkin gnocchi [Italian dumplings], olive oil, sage, roast pumpkin, walnut pangrattato [crispy breadcrumbs] (v)
+i {VegeCondition.Taste} Won Superior Taste Award (National Taste Institute, 2023), competing against traditional meat dishes
++ Woodfired fresh market fish, mussels, kombu butter [dried kelp], fennel
+<
+
+# Info
+. 
+i (v) vegetarian
+i All dishes can be modified to be gluten or lactose free. Vegetarian dishes can be modified to vegan.
+<

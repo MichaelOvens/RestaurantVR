@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c87d7414e7755ee4eadc5c3b28e606eb, type: 3}
+  m_Name: Q13 - Tried cultivated meat
+  m_EditorClassIdentifier: 
+  Type: 0
+  PrefabRow: {fileID: 1644317841075321070, guid: 8f7f7b0455085274bb7783fb83894352,
+    type: 3}
+  Question:
+    Id: 12
+    Text: "Have you ever tried \u2018cultivated meat\u2019?"
+  Responses:
+  - type: 0
+    id: 1
+    text: Not that I would know
+    selected: 0
+  - type: 0
+    id: 2
+    text: Yes
+    selected: 0

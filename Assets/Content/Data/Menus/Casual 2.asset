@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68bf356efd3cb3f468d97aa2004ab1d8, type: 3}
+  m_Name: Casual 2
+  m_EditorClassIdentifier: 
+  _starter_1:
+    IsSelected: 0
+    _id: 1
+    _text: 'Mushroom arancini: Hand-rolled rice balls with pumpkin puree (v)'
+  _starter_2:
+    IsSelected: 0
+    _id: 2
+    _text: Chilli & garlic prawns with toasted dipping bread
+  _starter_3:
+    IsSelected: 0
+    _id: 3
+    _text: 'Spicy buffalo wings:  Wings tossed with a special spicy sauce & ranch
+      dip'
+  _starter_4:
+    IsSelected: 0
+    _id: 4
+    _text: 'Miso honey roasted winter vegetables: Beets, parsnips, turnips, carrots
+      with soy paste (v)'
+  _main_1:
+    IsSelected: 0
+    _id: 1
+    _text: 'Stuffed eggplant: Stuffed with spiced lentils, roasted capsicum & red
+      onion, topped with dairy-free cheese (v)'
+  _main_2:
+    IsSelected: 0
+    _id: 2
+    _text: Porterhouse steak 200g char-grilled, crispy potatoes, broccolini, red
+      wine jus
+  _main_3_control:
+    IsSelected: 0
+    _id: 3
+    _text: 'Kimchi burger [Korean style]: Char-grilled beef patty 200g, Kimchi [fermented
+      cabbage], red onion, Gochujang [chili] mayo'
+  _main_3_variant:
+    IsSelected: 0
+    _id: 3
+    _text: 'Kimchi burger [Korean style]: Char-grilled beef patty with cultivated
+      beef 200g (cultivated from a small amount of stem cells harvested from living
+      animals without harming them), Kimchi [fermented cabbage], red onion, Gochujang
+      [chili] mayo'
+  _main_3_taste:
+    IsSelected: 0
+    _id: 3
+    _text: 'Kimchi burger [Korean style]: Char-grilled beef patty with cultivated
+      beef 200g (cultivated from a small amount of stem cells harvested from living
+      animals without harming them), Kimchi [fermented cabbage], red onion, Gochujang
+      [chili] mayo
+
+      <i><size=20>Won Superior Taste Award (National Taste Institute,
+      2023), competing against traditional meat dishes'
+  _main_4:
+    IsSelected: 0
+    _id: 4
+    _text: 'Moroccan cauliflower salad: Moroccan spiced chickpeas, roasted cauliflower,
+      pumpkin, red onion, spinach & tahini dressing [sesame sauce] (v)'
+  _main_5_control:
+    IsSelected: 0
+    _id: 5
+    _text: 'Thai BBQ pork: Grilled pork belly, lettuce, herbs, chilli jam'
+  _main_5_variant:
+    IsSelected: 0
+    _id: 5
+    _text: 'Pan fried gnocchi [Italian dumplings]: Tossed with roasted pumpkin, snowpeas,
+      cherry tomatoes, chilli & spinach (v)'
+  _main_5_taste:
+    IsSelected: 0
+    _id: 5
+    _text: 'Pan fried gnocchi [Italian dumplings]: Tossed with roasted pumpkin, snowpeas,
+      cherry tomatoes, chilli & spinach (v)
+
+      <i><size=20>Won Superior Taste
+      Award (National Taste Institute, 2023), competing against traditional meat
+      dishes'
+  _main_6:
+    IsSelected: 0
+    _id: 6
+    _text: 'Chilli tamarind fish: Fried fish, chilli tamarind glaze, herbs'

@@ -1,0 +1,16 @@
+{
+    "name": "Interaction.Effects",
+    "rootNamespace": "Interaction.Effects",
+    "references": [
+        "GUID:941fa08748266ef42a5398b8b4c3f27b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

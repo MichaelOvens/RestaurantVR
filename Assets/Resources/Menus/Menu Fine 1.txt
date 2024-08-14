@@ -1,0 +1,29 @@
+# Starters
+. Starters
++ Marinated olives and focaccia bread (v)
++ Salami, cornichons [pickled cucumbers], parmesan
++ Beef tartare, egg yolk, onion cream, French baguette
++ Chickpea panisse [chickpea fries], autumn vegetables, basil gremolata [seasoning mixture], feta (v)
+<
+
+# Mains
+. Mains
++ Ricotta gnocchi [Italian dumplings], artichokes, basil, parmesan (v)
++ Wagyu beef 250g, Australian bush basil, kohlrabi
++ {MeatCondition.Control} Beef sirloin 250g, béarnaise [type of mayonnaise], red wine jus
++ {MeatCondition.More} Beef sirloin with cultivated beef 250g (cultivated from a small amount of stem cells harvested from living animals without harming them), béarnaise [type of mayonnaise], red wine jus
++ {MeatCondition.Taste} Beef sirloin with cultivated beef 250g (cultivated from a small amount of stem cells harvested from living animals without harming them), béarnaise [type of mayonnaise], red wine jus
+i {MeatCondition.Taste} Won Superior Taste Award (National Taste Institute, 2023), competing against traditional meat dishes
++ Pepper tart, cashew cheese, with rocket pesto (v)
++ {VegeCondition.Control} Slow cooked lamb shoulder, rosemary beignet [French doughnut], mustard jus
++ {VegeCondition.More} Ash baked pumpkin, mushrooms, cannellini beans, vegetable jus (v)
++ {VegeCondition.Taste} Ash baked pumpkin, mushrooms, cannellini beans, vegetable jus (v)
+i {VegeCondition.Taste} Won Superior Taste Award (National Taste Institute, 2023), competing against traditional meat dishes
++ Wild caught fish, Jerusalem artichokes [a tuber], green onions
+<
+
+# Info
+. 
+i (v) vegetarian
+i All dishes can be modified to be gluten or lactose free. Vegetarian dishes can be modified to vegan.
+<

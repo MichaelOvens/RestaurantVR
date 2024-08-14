@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68bf356efd3cb3f468d97aa2004ab1d8, type: 3}
+  m_Name: Fine 1
+  m_EditorClassIdentifier: 
+  _starter_1:
+    IsSelected: 0
+    _id: 1
+    _text: Marinated olives and focaccia bread (v)
+  _starter_2:
+    IsSelected: 0
+    _id: 2
+    _text: Salami, cornichons [pickled cucumbers], parmesan
+  _starter_3:
+    IsSelected: 0
+    _id: 3
+    _text: Beef tartare, egg yolk, onion cream, French baguette
+  _starter_4:
+    IsSelected: 0
+    _id: 4
+    _text: Chickpea panisse [chickpea fries], autumn vegetables, basil gremolata
+      [seasoning mixture], feta (v)
+  _main_1:
+    IsSelected: 0
+    _id: 1
+    _text: Ricotta gnocchi [Italian dumplings], artichokes, basil, parmesan (v)
+  _main_2:
+    IsSelected: 0
+    _id: 2
+    _text: Wagyu beef 250g, Australian bush basil, kohlrabi
+  _main_3_control:
+    IsSelected: 0
+    _id: 3
+    _text: "Beef sirloin 250g, b\xE9arnaise [type of mayonnaise], red wine jus"
+  _main_3_variant:
+    IsSelected: 0
+    _id: 3
+    _text: "Beef sirloin with cultivated beef 250g (cultivated from a small amount
+      of stem cells harvested from living animals without harming them), b\xE9arnaise
+      [type of mayonnaise], red wine jus"
+  _main_3_taste:
+    IsSelected: 0
+    _id: 3
+    _text: "Beef sirloin with cultivated beef 250g (cultivated from a small amount
+      of stem cells harvested from living animals without harming them), b\xE9arnaise
+      [type of mayonnaise], red wine jus\n<i><size=20>Won Superior Taste Award (National
+      Taste Institute, 2023), competing against traditional meat dishes"
+  _main_4:
+    IsSelected: 0
+    _id: 4
+    _text: Pepper tart, cashew cheese, with rocket pesto (v)
+  _main_5_control:
+    IsSelected: 0
+    _id: 5
+    _text: Slow cooked lamb shoulder, rosemary beignet [French doughnut], mustard
+      jus
+  _main_5_variant:
+    IsSelected: 0
+    _id: 5
+    _text: Ash baked pumpkin, mushrooms, cannellini beans, vegetable jus (v)
+  _main_5_taste:
+    IsSelected: 0
+    _id: 5
+    _text: 'Ash baked pumpkin, mushrooms, cannellini beans, vegetable jus (v)
+
+      <i><size=20>Won
+      Superior Taste Award (National Taste Institute, 2023), competing against traditional
+      meat dishes'
+  _main_6:
+    IsSelected: 0
+    _id: 6
+    _text: Wild caught fish, Jerusalem artichokes [a tuber], green onions

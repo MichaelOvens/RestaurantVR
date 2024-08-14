@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c87d7414e7755ee4eadc5c3b28e606eb, type: 3}
+  m_Name: Q25 - Residency
+  m_EditorClassIdentifier: 
+  Type: 0
+  PrefabRow: {fileID: 1644317841075321070, guid: 95d222a4017d7944ea5afad6295fe1e1,
+    type: 3}
+  Question:
+    Id: 24
+    Text: In which country or region do you normally reside?
+  Responses:
+  - type: 0
+    id: 1
+    text: Australia
+    selected: 0
+  - type: 0
+    id: 2
+    text: New Zealand
+    selected: 0
+  - type: 0
+    id: 3
+    text: United Kingdom
+    selected: 0
+  - type: 0
+    id: 4
+    text: Asia
+    selected: 0
+  - type: 0
+    id: 5
+    text: North America
+    selected: 0
+  - type: 0
+    id: 6
+    text: Europe
+    selected: 0
+  - type: 0
+    id: 7
+    text: Other
+    selected: 0

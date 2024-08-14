@@ -1,0 +1,29 @@
+# Starters
+. Starters
++ Moroccan spiced hummus, in-house baked bread (v)
++ Local squid, Turkish pepper, aioli, lemon
++ Chicken wings, sticky bbq sauce
++ Heirloom eggplant [old, open-pollinated varieties of aubergines], chickpea, pomegranate, mint, sumac (v)
+<
+
+# Mains
+. Mains
++ Roasted pumpkin pizza, spinach, pumpkin seeds, vegan cheese (v)
++ Grain fed beef brisket 200g, in-house glaze, pickled cabbage, jalapenos [chili pepper], corn tortilla
++ {MeatCondition.Control} Locally raised beef burger 200g, bacon, mustard, lettuce, onion, fries
++ {MeatCondition.More} Burger with cultivated beef 200g (cultivated from a small amount of stem cells harvested from living animals without harming them), mustard, lettuce, onion, fries
++ {MeatCondition.Taste} Burger with cultivated beef 200g (cultivated from a small amount of stem cells harvested from living animals without harming them), mustard, lettuce, onion, fries
+i {MeatCondition.Taste} Won Superior Taste Award (National Taste Institute, 2023), competing against traditional meat dishes
++ Quinoa bowl, mango, sweet corn, cabbage, green leaves, chili tofu, chipotle mayo (v)
++ {VegeCondition.Control} Herb marinated chicken, lime, cucumber, mint salad, spiced yoghurt, fries
++ {VegeCondition.More} Beetroot salad with wood-oven roasted beetroots, ajoblanco [Spanish cold soup], almonds, mint (v)
++ {VegeCondition.Taste} Beetroot salad with wood-oven roasted beetroots, ajoblanco [Spanish cold soup], almonds, mint (v)
++ {VegeCondition.Taste} Won Superior Taste Award (National Taste Institute, 2023), competing against traditional meat dishes
++ Pan-fried Australian barramundi [fish], fennel, asparagus salad, tartar sauce
+<
+
+# Info
+. 
+i (v) vegetarian
+i All dishes can be modified to be gluten or lactose free. Vegetarian dishes can be modified to vegan.
+<

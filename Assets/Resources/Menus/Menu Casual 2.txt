@@ -1,0 +1,29 @@
+# Starters
+. Starters
++ Mushroom arancini: Hand-rolled rice balls with pumpkin puree (v)
++ Chilli & garlic prawns with toasted dipping bread
++ Spicy buffalo wings:  Wings tossed with a special spicy sauce & ranch dip
++ Miso honey roasted winter vegetables: Beets, parsnips, turnips, carrots with soy paste (v)
+<
+
+# Mains
+. Mains
++ Stuffed eggplant: Stuffed with spiced lentils, roasted capsicum & red onion, topped with dairy-free cheese (v)
++ Porterhouse steak 200g char-grilled, crispy potatoes, broccolini, red wine jus
++ {MeatCondition.Control} Kimchi burger [Korean style]: Char-grilled beef patty 200g, Kimchi [fermented cabbage], red onion, Gochujang [chili] mayo
++ {MeatCondition.More} Kimchi burger [Korean style]: Char-grilled beef patty with cultivated beef 200g (cultivated from a small amount of stem cells harvested from living animals without harming them), Kimchi [fermented cabbage], red onion, Gochujang [chili] mayo
++ {MeatCondition.Taste} Kimchi burger [Korean style]: Char-grilled beef patty with cultivated beef 200g (cultivated from a small amount of stem cells harvested from living animals without harming them), Kimchi [fermented cabbage], red onion, Gochujang [chili] mayo
+i {MeatCondition.Taste} Won Superior Taste Award (National Taste Institute, 2023), competing against traditional meat dishes
++ Moroccan cauliflower salad: Moroccan spiced chickpeas, roasted cauliflower, pumpkin, red onion, spinach & tahini dressing [sesame sauce] (v)
++ {VegeCondition.Control} Thai BBQ pork: Grilled pork belly, lettuce, herbs, chilli jam
++ {VegeCondition.More} Pan fried gnocchi [Italian dumplings]: Tossed with roasted pumpkin, snowpeas, cherry tomatoes, chilli & spinach (v)
++ {VegeCondition.Taste} Pan fried gnocchi [Italian dumplings]: Tossed with roasted pumpkin, snowpeas, cherry tomatoes, chilli & spinach (v)
+i {VegeCondition.Taste} Won Superior Taste Award (National Taste Institute, 2023), competing against traditional meat dishes
++ Chilli tamarind fish: Fried fish, chilli tamarind glaze, herbs
+<
+
+# Info
+. 
+i (v) vegetarian
+i All dishes can be modified to be gluten or lactose free. Vegetarian dishes can be modified to vegan.
+<
